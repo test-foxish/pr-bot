@@ -1,1 +1,3 @@
 # pr-bot
+
+Testing CLA signing and updating...
